@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\docs\\images",
+    "\\docs\\images\\debugger",
+    "\\packages",
+    "\\packages\\cli\\test",
+    "\\packages\\cli\\test\\functional",
+    "\\packages\\cli\\test\\functional\\testUtil",
+    "\\packages\\cli\\test\\functional\\test_site_templates",
+    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal",
+    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal\\expected",
+    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal\\expected\\markbind\\css",
+    "\\packages\\vue-components"
+  ],
+  "SelectedNode": "\\docs\\images\\debugger\\WebStorm_1.png",
+  "PreviewInSolutionExplorer": false
+}

@@ -110,9 +110,9 @@ mark {
     #site-nav {
         display: none;
     }
-
+    
     footer {
-        margin-left: 60px;
+        margin-left: 0;
     }
 }
 
