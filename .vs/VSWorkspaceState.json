@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\cli\\test",
+    "\\packages\\cli\\test\\functional",
+    "\\packages\\cli\\test\\functional\\test_site_templates",
+    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal",
+    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal\\expected",
+    "\\packages\\core",
+    "\\packages\\core\\src",
+    "\\packages\\core\\src\\html",
+    "\\packages\\core\\src\\Layout",
+    "\\packages\\core\\src\\lib",
+    "\\packages\\core\\src\\lib\\nunjucks-extensions",
+    "\\packages\\core\\src\\Page"
+  ],
+  "SelectedNode": "\\packages\\core\\src\\lib\\nunjucks-extensions",
+  "PreviewInSolutionExplorer": false
+}
