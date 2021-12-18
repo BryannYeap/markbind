@@ -1,19 +1,20 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs",
-    "\\docs\\images",
-    "\\docs\\images\\debugger",
     "\\packages",
     "\\packages\\cli\\test",
     "\\packages\\cli\\test\\functional",
-    "\\packages\\cli\\test\\functional\\testUtil",
     "\\packages\\cli\\test\\functional\\test_site_templates",
     "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal",
     "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal\\expected",
-    "\\packages\\cli\\test\\functional\\test_site_templates\\test_minimal\\expected\\markbind\\css",
-    "\\packages\\vue-components"
+    "\\packages\\core",
+    "\\packages\\core\\src",
+    "\\packages\\core\\src\\html",
+    "\\packages\\core\\src\\Layout",
+    "\\packages\\core\\src\\lib",
+    "\\packages\\core\\src\\lib\\nunjucks-extensions",
+    "\\packages\\core\\src\\Page"
   ],
-  "SelectedNode": "\\docs\\images\\debugger\\WebStorm_1.png",
+  "SelectedNode": "\\packages\\core\\src\\lib\\nunjucks-extensions",
   "PreviewInSolutionExplorer": false
 }
